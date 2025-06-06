@@ -7,7 +7,7 @@ This site showcases my work, skills, and contact details in a clean, professiona
 
 📸 *Preview below:*
 
-![Preview](./preview.gif)
+![Preview](./Animation.gif)
 
 ---
 
